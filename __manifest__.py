@@ -9,7 +9,7 @@
     'description': """
         Long description of module's purpose
     """,
-
+#this is a ccomment
     'author': "My Company",
     'website': "http://www.yourcompany.com",
 
